@@ -1,0 +1,172 @@
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\csc.exe
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\vbc.exe
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\FlickrApp.dll.config
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\FlickrApp.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\FlickrApp.pdb
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Antlr3.Runtime.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\EntityFramework.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\FlickrNet.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Newtonsoft.Json.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Owin.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.Helpers.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.Mvc.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.Optimization.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.Razor.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.WebPages.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\WebGrease.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.Helpers.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.Mvc.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.Optimization.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.Razor.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.WebPages.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Antlr3.Runtime.pdb
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Newtonsoft.Json.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\EntityFramework.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\obj\Debug\FlickrApp.dll
+C:\Users\Dinu\Documents\Visual Studio 2015\Projects\FlickrApp\FlickrApp\obj\Debug\FlickrApp.pdb
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\csc.exe
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CSharp.Core.targets
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\System.Collections.Immutable.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\System.Reflection.Metadata.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\vbc.exe
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\VBCSCompiler.exe
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\VBCSCompiler.exe.config
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\FlickrApp.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\FlickrApp.pdb
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Mvc.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Optimization.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.Deployment.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.Razor.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Mvc.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Optimization.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.Deployment.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.Razor.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\obj\Debug\FlickrApp.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\obj\Debug\FlickrApp.pdb
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Antlr3.Runtime.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Web.Infrastructure.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Newtonsoft.Json.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Helpers.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Razor.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\WebGrease.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Helpers.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Razor.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Antlr3.Runtime.pdb
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Newtonsoft.Json.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.ServiceLocation.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.Unity.Configuration.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.Unity.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Net.Http.Formatting.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Http.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Unity.Mvc4.dll
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.ServiceLocation.pdb
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.ServiceLocation.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.Unity.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.Unity.Configuration.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Net.Http.Formatting.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Http.xml
+\\NAUNSW011\NemiChDi\FlickrApp\FlickrApp\FlickrApp\obj\Debug\FlickrApp.csprojResolveAssemblyReference.cache
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\csc.exe
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\vbc.exe
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\FlickrApp.dll.config
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\FlickrApp.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\FlickrApp.pdb
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Antlr3.Runtime.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.Unity.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Newtonsoft.Json.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Helpers.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Http.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Mvc.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Optimization.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Razor.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Unity.Mvc4.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\WebGrease.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.Unity.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Http.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Helpers.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Mvc.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Optimization.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.Razor.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Antlr3.Runtime.pdb
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\bin\Newtonsoft.Json.xml
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\obj\Debug\FlickrApp.csprojResolveAssemblyReference.cache
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\obj\Debug\FlickrApp.dll
+C:\Users\Dinu\Documents\GitHub\FlickrApp\FlickrApp\FlickrApp\obj\Debug\FlickrApp.pdb

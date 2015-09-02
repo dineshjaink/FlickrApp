@@ -1,0 +1,16 @@
+﻿<div>
+    @Html.TextBox("tags", null, new { placeholder = "Search Images.." })
+    
+</div>
+<div>
+    <button class="btn">Share</button>
+</div>
+
+<div id="content" hidden="true">
+    <img src="~/Content/img/loader.gif" id = "loadingImage" alt="Loading.."/>
+</div>
+
+<div id="results">
+    <div class="imgResult">
+    </div>
+</div>
