@@ -14,27 +14,23 @@ namespace FlickrApp
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.validate*"));            
 
-            bundles.Add(new ScriptBundle("~/bundles/App").Include(
+            bundles.Add(new ScriptBundle("~/bundles/script").Include(
                         "~/Scripts/script.js"));
 
-            bundles.Add(new ScriptBundle("~/bundles/jquerymag").Include(
-                        "~/Scripts/jquery.magnifier.js")); 
-
-            // Use the development version of Modernizr to develop with and learn from. Then, when you're
-            // ready for production, use the build tool at http://modernizr.com to pick only the tests you need.
+            bundles.Add(new ScriptBundle("~/bundles/jqueryfancy").Include(
+                        "~/Scripts/jquery-migrate-1.2.1.js",
+                        "~/Scripts/jquery.fancybox-1.3.4.pack.min.js")); 
+           
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-*"));
-
-            //bundles.Add(new ScriptBundle("~/bundles/magnifier").Include(
-            //            "~/Scripts/magnifier*"));
-
+           
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js",
                       "~/Scripts/respond.js"));
 
-            bundles.Add(new StyleBundle("~/Content/css").Include(
+            bundles.Add(new StyleBundle("~/Content/Style").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/magnifier.css"));
+                      "~/Content/Site.css"));           
         }
     }
 }

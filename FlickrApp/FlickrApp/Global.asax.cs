@@ -9,6 +9,8 @@ namespace FlickrApp
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
+
+            GlobalFilters.Filters.Add(new HandleErrorAttribute());
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);

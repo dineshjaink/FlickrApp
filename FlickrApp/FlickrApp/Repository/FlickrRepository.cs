@@ -15,14 +15,12 @@ namespace FlickrApp.Repository
         private const string FLICKR_API = "http://api.flickr.com/services/feeds/photos_public.gne?tags={0}";
        
         /// <summary>
-        /// Returns the image
+        /// Returns the images based on Search Tags
         /// </summary>
         /// <param name="tags"></param>
         /// <returns></returns>
         public List<FlickrImage> GetImagesByTags(string tags)
         {
-            //return GetPhotos(tags);
-            
             var images = new List<FlickrImage>();
 
             //Testing code Starts
