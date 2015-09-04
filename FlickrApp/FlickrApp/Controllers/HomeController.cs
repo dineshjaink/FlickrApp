@@ -33,8 +33,6 @@ namespace FlickrApp.Controllers
         [HttpPost]
         public ActionResult GetImages(string tags)
         {
-            //var flickrRepository = new FlickrRepository();            
-
             return Json(_repository.GetImagesByTags(tags), JsonRequestBehavior.DenyGet);
         }
 
