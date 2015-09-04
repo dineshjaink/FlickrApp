@@ -1,0 +1,15 @@
+﻿<div class= "pnlSearch">
+    @Html.TextBox("tags", null, new { placeholder = "Search Images",  @class = "clsSearchTxt" } )
+ <button class="btnshare btn">Share...</button>
+    
+</div>
+
+
+<div id="content" hidden="true">
+    <img src="~/Content/img/loader.gif" id = "loadingImage" alt="Loading.."/>
+</div>
+
+<div id="results">
+    <div class="imgResult">
+    </div>
+</div>
